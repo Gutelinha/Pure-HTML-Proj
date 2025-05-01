@@ -14,12 +14,12 @@ Este é um projeto desenvolvido como parte do curso da [OneBitCode](https://oneb
 
 Pure-HTML-Proj/ 
 │ 
-├── assets
-├── index.html 
-├── sobre.html
-├── services.html
-├── contact.html
-└── README.md
+├── assets  
+├── index.html   
+├── sobre.html  
+├── services.html  
+├── contact.html  
+└── README.md  
 
 ## 🧠 O que eu aprendi
 
