@@ -13,7 +13,7 @@ Este é um projeto desenvolvido como parte do curso da [OneBitCode](https://oneb
 ## 📁 Estrutura de Arquivos
 
 Pure-HTML-Proj/ 
-│ 
+│   
 ├── assets  
 ├── index.html   
 ├── sobre.html  
@@ -35,5 +35,5 @@ git clone https://github.com/seu-usuario/Pure-HTML-proj.git
 2. Abra o arquivo index.html em seu navegador ou utilize do LiveServer (extensão do VSCode).
 
 ## 🙋‍♂️ Autor
-Feito com 💻 por Guto Lescura
+Feito com 💻 por Guto Lescura  
 [LinkedIn](https://www.linkedin.com/in/augusto-lescura-pinto/).
