@@ -12,7 +12,7 @@ Este é um projeto desenvolvido como parte do curso da [OneBitCode](https://oneb
 
 ## 📁 Estrutura de Arquivos
 
-Pure-HTML-Proj/ 
+Pure-HTML-Proj/  
 │   
 ├── assets  
 ├── index.html   
